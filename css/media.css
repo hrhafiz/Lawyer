@@ -1,0 +1,184 @@
+
+
+@media(min-width:768px) and (max-width:991px){
+
+
+
+    .navbar-expand-md .navbar-nav {
+        text-align: center;
+    }
+    .language .col-md-3{
+        width: 50%;
+        text-align: center;
+        padding-bottom: 15px;
+
+    }
+    .language{
+        margin-bottom: 0px !important;
+    }
+    .whatwedo {
+        background-size: 100% 72%;
+    }
+    
+
+
+
+
+    /* closing point  */
+}
+@media(min-width:0px) and (max-width:767px){
+    .navbar-light .navbar-nav .nav-item {
+        padding: 8px 15px;
+        display: inline-flex;
+    }
+    .who_we_are-img {
+        text-align: center !important;
+        margin-top: 15px;
+    }
+    .whatwedo{
+        background: none;
+        padding-top: 0px !important;
+    }
+    .image {
+        margin-bottom: 30px;
+    }
+    .attorney-left{
+        margin-top: -30px !important;
+        text-align: center;
+        margin-bottom: 30px;
+    }
+    .attorney-left h1 br{
+        display: none;
+    }
+    .attorney-left h1{
+        margin: 10px 0px;
+    }
+.heading{
+    padding: 0px !important;
+    padding-bottom: 15px !important;
+}
+.language h2{
+    text-align: center;
+}
+footer ul {
+    align-items: center;
+    justify-content: center;
+}
+.who_we_are span {
+    margin: auto;
+    display: block;
+}
+.who_we_are h1 {
+    padding-top: 15px;
+    text-align: center;
+    font-size: 30px;
+    padding-bottom: 10px;
+}
+.attorney .col-sm-6{
+    padding-top: 0 !important;
+    padding-bottom: 0 !important;
+}
+
+
+
+
+
+}
+@media(min-width:0px) and (max-width:320px){
+    .attorney-left h1 {
+        padding: 15px 0px;
+        font-size: 25px;
+    }
+    .who_we_are {
+        margin-top: 30px !important;
+    }
+    .language .col-md-3{
+        margin-bottom: 15px !important;
+    }
+    
+
+}
+
+@media(min-width:0px) and (max-width:575px){
+
+
+    .banner h1 {
+        font-size: 25px;
+    }
+    .hg {
+        min-height: 70vh;
+    }
+    .banner .icon {
+        left: 50%;
+        top: 59%;
+        transform: translateX(-50%);
+    }
+    @keyframes updown {
+        0%{
+            top: 59%;
+        }
+        100%{
+            top: 62%;
+        }
+    }
+    .who_we_are span {
+        margin: auto;
+        display: block;
+    }
+    .who_we_are h1 {
+        padding-top: 15px;
+        text-align: center;
+        font-size: 24px;
+    }
+    .image {
+        margin-bottom: 30px;
+    }
+    .whatwedo{
+        background: none;
+        padding-top: 0px !important;
+    }
+    .attorney-left{
+        text-align: center;
+        margin-top: 15px !important;
+}
+    
+    .attorney-left h1 {
+        padding: 15px 0px;
+    }
+    .attorney-left h1 br{
+        display: none;
+    }
+    .attorney {
+        padding: 0;
+        text-align: center;
+        padding-bottom: 35px;
+    }
+    .attorney .image{
+        margin-bottom: 0px;
+
+    }
+    .language {
+        padding: 0px !important;
+        text-align: center;
+    }
+    
+    .language h2 {
+        text-align: center;
+    }    
+    footer ul {
+        align-items: center;
+        justify-content: center;
+    }
+    footer h3 {
+        font-size: 14px;
+        margin-bottom: 10px;
+    }
+.heading{
+    padding-bottom: 10px !important;
+}
+.attorney h1 {
+    font-size: 28px;
+}
+
+    /* closing point  */
+}
