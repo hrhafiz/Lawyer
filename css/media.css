@@ -34,7 +34,7 @@
         padding-top: 30px !important;
     }
 }
-@media(min-width:0px) and (max-width:767px){
+@media(min-width:576px) and (max-width:767px){
     .navbar-light .navbar-nav .nav-item {
         padding: 8px 15px;
         display: inline-flex;
@@ -62,7 +62,7 @@
         margin: 10px 0px;
     }
 .heading{
-    padding: 0px !important;
+    
     padding-bottom: 15px !important;
 }
 .language h2{
