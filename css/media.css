@@ -30,6 +30,10 @@
     .contact_us{
         padding-top: 30px;
     }
+    .language{
+        padding-top: 30px !important;
+    }
+}
 @media(min-width:0px) and (max-width:767px){
     .navbar-light .navbar-nav .nav-item {
         padding: 8px 15px;
