@@ -27,6 +27,10 @@
     /* closing point  */
 }
 @media(min-width:0px) and (max-width:767px){
+    .contact_us{
+        padding-top: 30px;
+    }
+@media(min-width:0px) and (max-width:767px){
     .navbar-light .navbar-nav .nav-item {
         padding: 8px 15px;
         display: inline-flex;
