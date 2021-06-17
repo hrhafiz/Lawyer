@@ -17,6 +17,7 @@
     font-size: 16px;
     text-decoration:none ;
     padding: 0;
+    display: inline-flex;
 }
 .navbar-light .navbar-nav .nav-link::before{
     content: '';
