@@ -19,6 +19,10 @@
     .whatwedo {
         background-size: 100% 72%;
     }
+    .navbar-light .navbar-nav .nav-link {
+       font-size: 22px;
+       padding-top: 13px;
+    }
     
 
 
@@ -26,18 +30,10 @@
 
     /* closing point  */
 }
-@media(min-width:0px) and (max-width:767px){
-    .contact_us{
-        padding-top: 30px;
-    }
-    .heading{
-        padding-top: 30px !important;
-    }
-}
 @media(min-width:576px) and (max-width:767px){
     .navbar-light .navbar-nav .nav-item {
         padding: 8px 15px;
-        display: inline-flex;
+       
     }
     .who_we_are-img {
         text-align: center !important;
@@ -92,6 +88,15 @@ footer ul {
 
 
 }
+
+@media(min-width:0px) and (max-width:767px){
+    .contact_us{
+        padding-top: 30px;
+    }
+    .language{
+        padding-top: 30px;
+    }
+}
 @media(min-width:0px) and (max-width:320px){
     .attorney-left h1 {
         padding: 15px 0px;
@@ -106,10 +111,16 @@ footer ul {
     
 
 }
+@media(min-width:0px) and (max-width:991px){
+    .navbar-light .navbar-nav .nav-item{
+        padding: 8px 15px;
+    }
+
+}
 
 @media(min-width:0px) and (max-width:575px){
 
-
+  
     .banner h1 {
         font-size: 25px;
     }
